@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "name": "Cherokee 140 CheckMate Checklist",
+    "version": "7.61",
+    "aircraft": {
+      "make": "Piper",
+      "modelName": "Cherokee 140",
+      "modelNumber": "PA-28-140"
+    }
+  },
+  "sections": [
+    {
+      "name": "Initial",
+      "steps": [
+        ["Weather & Den. Alt."],
+        ["Weight & Balance"],
+        ["Performance Req."],
+        ["Flight Plan", "File"],
+        ["Papers", "A.R.O.W."],
+        ["Flaps", "Extend"],
+        ["Master", "On"],
+        ["Pitot Heat", "Test"],
+        ["Stall Indicator", "Test"],
+        ["Lights", "Int/Ext"],
+        ["Fuel Gauges", "True"],
+        ["Master", "Off"]
+      ]
+    },
+    {
+      "name": "Exterior Summary",
+      "steps": []
+    }
+  ]
+}
